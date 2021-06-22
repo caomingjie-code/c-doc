@@ -12,7 +12,7 @@ int main(int argc, char const *argv[])
             if(i==5){
                 goto goT; //线程直接跳入到goT处继续执行
             }
-            printf("%d",i);
+            printf("%d",i); 
     }
     goT:
     return 0;
