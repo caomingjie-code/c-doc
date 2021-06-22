@@ -7,7 +7,7 @@ int main(int argc, char const *argv[])
   printf("M的值为： %d  \n", day);
     for(; day < Wednesday;day++){
             if(day == Thursday){
-                break; //跳出当前循环
+                break; //跳出当前循环 
             }
     }
 
