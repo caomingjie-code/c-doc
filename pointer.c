@@ -1,4 +1,8 @@
 #include <stdio.h>
+/**
+ * 
+ * 指针学习 
+ */
 int main(int argc, char const *argv[])
 {
     char multiple[] = "my string";
